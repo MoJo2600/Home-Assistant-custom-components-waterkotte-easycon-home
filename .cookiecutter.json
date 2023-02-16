@@ -1,0 +1,11 @@
+{
+  "_output_dir": "/home/mojo/workspace/Home-Assistant-custom-components-waterkotte-easycon-home",
+  "_template": "gh:oncleben31/cookiecutter-homeassistant-custom-component",
+  "class_name_prefix": "WaterkotteEasyconHome",
+  "domain_name": "waterkotte_easycon_home",
+  "friendly_name": "Waterkotte EasyCon Home",
+  "github_user": "MoJo2600",
+  "project_name": "waterkotte-easycon-home",
+  "test_suite": "yes",
+  "version": "0.0.1"
+}

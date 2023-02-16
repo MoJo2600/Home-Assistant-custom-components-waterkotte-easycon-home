@@ -1,0 +1,10 @@
+{
+  "domain": "waterkotte_easycon_home",
+  "name": "Waterkotte EasyCon Home",
+  "documentation": "https://github.com/MoJo2600/waterkotte-easycon-home",
+  "issue_tracker": "https://github.com/MoJo2600/waterkotte-easycon-home/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@MoJo2600"],
+  "requirements": []
+}
